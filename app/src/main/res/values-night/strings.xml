@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="find_weather">Find Weather</string>
+</resources>

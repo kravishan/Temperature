@@ -27,6 +27,5 @@ This Android app allows you to check the temperature of any city around the worl
 
 1. Clone the repository.
 2. Open the project in Android Studio.
-3. Add your OpenWeatherMap API key to the `ApiKey.java` file.
 4. Run the app on an Android device or emulator.
 
